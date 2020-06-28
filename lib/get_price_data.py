@@ -74,6 +74,6 @@ def getTickersPrice(tickers_list_file):
 
 if __name__ == "__main__":
 	# getTickersPrice('../data/tickers/ticker_list_20200628.csv')
-	getTickersPrice('../data/tickers/ticker_list_of_interests.csv')
+	getTickersPrice('../data/tickers/ticker_list_of_interests_test.csv')
 
 	
